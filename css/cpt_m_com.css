@@ -105,7 +105,7 @@ header .tel a .header_icon_tel{
 }*/
 
 
-/*µ×²¿À¸ */
+/*ë’€ê¼¬ìœ¼ */
 .footer{
     background-color: #23315E;
     position: relative;
@@ -180,7 +180,7 @@ header .tel a .header_icon_tel{
     text-align: center;
     color: #fff;
 }
-/*Ãæ°üĞ¼ */
+/*ì¶©ê´€åŠ‡ */
 .mbx{
     padding: .4rem  .3rem;
     color: #37456C;
@@ -212,7 +212,7 @@ header .tel a .header_icon_tel{
     color: #37456C;
 }
 
-/*²à±ßÀ¸ */
+/*ê¿‹ê¸‹ìœ¼ */
 
 .side-bar a,.chat-tips i {
     background: url(../images/aside.png) no-repeat;
@@ -284,7 +284,7 @@ header .tel a .header_icon_tel{
     height: 3rem;
 }
 
-/*Ò³Ãæµ×²¿À¸¹Ì¶¨ÑùÊ½ B*/
+/*å¥³ì¶©ë’€ê¼¬ìœ¼ë¯¸ë•æ¹³é§• B*/
 .footer_fixed{
     width: 100%;
     height: .9rem;
@@ -299,13 +299,13 @@ header .tel a .header_icon_tel{
 .footer_fixed a{
     display: block;
     color: #fff;
-    padding-left: 1.1rem;
+    padding-left: 1.3rem;
 }
 .footer_fixed .hot_tel{
     font: normal .30rem/.9rem "Microsoft Yahei";
-    margin-right:.6rem;
+    margin-right:.5rem;
 }
 .footer_fixed .tel{
     font: normal .40rem/.9rem "Microsoft Yahei";
 }
-/*Ò³Ãæµ×²¿À¸¹Ì¶¨ÑùÊ½ E*/
+/*å¥³ì¶©ë’€ê¼¬ìœ¼ë¯¸ë•æ¹³é§• E*/
